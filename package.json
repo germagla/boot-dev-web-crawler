@@ -1,0 +1,19 @@
+{
+  "name": "boot-dev-web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
